@@ -39,7 +39,7 @@ headers = {
 Simply run the script:
 
 ```bash
-python trail_collector.py
+python trails.py
 ```
 
 The script will:
